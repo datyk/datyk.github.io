@@ -12,8 +12,8 @@
   background-image: url("public/playground_assets/pexels-adrien-olichon-2387793-1500w.jpg");
 }
 .home-text {
-  top: var(--dl-space-space-40);
-  left: var(--dl-space-space-5);
+  top: 400px;
+  left: 82px;
   color: rgb(152, 232, 205);
   position: absolute;
   font-size: 65px;
@@ -159,8 +159,9 @@
     left: var(--dl-space-space-5);
   }
   .home-social {
-    top: var(--dl-space-space-60);
+    top: 70%;
     left: var(--dl-space-space-5);
+    margin-left: 0px;
   }
   .home-logo {
     top: 5%;
