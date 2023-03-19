@@ -12,7 +12,7 @@
   background-image: url("public/playground_assets/pexels-adrien-olichon-2387793-1500w.jpg");
 }
 .home-text {
-  top: 400px;
+  top: var(--dl-space-space-40);
   left: var(--dl-space-space-5);
   color: rgb(152, 232, 205);
   position: absolute;
@@ -106,11 +106,11 @@
   text-decoration: none;
 }
 .home-banner {
+  top: var(--dl-space-space-5);
   width: 100%;
   height: 116px;
   display: flex;
-  position: relative;
-  margin-top: var(--dl-space-space-5);
+  position: absolute;
   align-items: center;
   justify-content: flex-start;
 }
@@ -133,12 +133,9 @@
     background-image: url("public/playground_assets/pexels-adrien-olichon-2387793-1500w.jpg");
   }
   .home-text {
-    top: var(--dl-space-space-30);
+    top: var(--dl-space-space-40);
     left: var(--dl-space-space-5);
     position: absolute;
-  }
-  .home-banner {
-    margin-top: var(--dl-space-space-5);
   }
   .home-logo {
     top: var(--dl-space-space-5);
@@ -153,7 +150,7 @@
     left: var(--dl-space-space-5);
   }
   .home-social {
-    top: var(--dl-space-space-60);
+    top: var(--dl-space-space-50);
   }
 }
 @media(max-width: 479px) {
@@ -162,7 +159,7 @@
     left: var(--dl-space-space-5);
   }
   .home-social {
-    top: 70%;
+    top: var(--dl-space-space-60);
     left: var(--dl-space-space-5);
   }
   .home-logo {
