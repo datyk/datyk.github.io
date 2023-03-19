@@ -146,11 +146,11 @@
 }
 @media(max-width: 767px) {
   .home-text {
-    top: var(--dl-space-space-30);
+    top: var(--dl-space-space-40);
     left: var(--dl-space-space-5);
   }
   .home-social {
-    top: var(--dl-space-space-50);
+    top: var(--dl-space-space-60);
   }
 }
 @media(max-width: 479px) {
