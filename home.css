@@ -1,0 +1,129 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: flex-start;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: flex-start;
+  background-image: url("public/playground_assets/pexels-adrien-olichon-2387793-1500w.jpg");
+}
+.home-text {
+  color: rgb(152, 232, 205);
+  font-size: 65px;
+  align-self: flex-start;
+  margin-top: 300px;
+  font-family: Exo 2;
+  margin-left: var(--dl-space-space-sixunits);
+  margin-right: var(--dl-space-space-sixunits);
+}
+.home-text1 {
+  color: #ffffff;
+}
+.home-text3 {
+  color: #ffffff;
+}
+.home-text5 {
+  color: #ffffff;
+  font-size: 25px;
+}
+.home-text6 {
+  color: #ffffff;
+  font-size: 25px;
+}
+.home-container1 {
+  top: 600px;
+  left: 96px;
+  width: 376px;
+  height: 49px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  margin-left: 0px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.home-link {
+  display: contents;
+}
+.home-mail {
+  fill: #98e8cd;
+  left: 160px;
+  width: var(--dl-size-size-small);
+  height: auto;
+  position: absolute;
+  border-color: var(--dl-color-gray-black);
+  text-decoration: none;
+}
+.home-link1 {
+  display: contents;
+}
+.home-github {
+  fill: #98e8cd;
+  left: 240px;
+  width: var(--dl-size-size-small);
+  height: auto;
+  position: absolute;
+  text-decoration: none;
+}
+.home-link2 {
+  display: contents;
+}
+.home-gitlab {
+  fill: #98e8cd;
+  left: 320px;
+  width: var(--dl-size-size-small);
+  height: auto;
+  position: absolute;
+  text-decoration: none;
+}
+.home-link3 {
+  display: contents;
+}
+.home-linkedin {
+  fill: #98e8cd;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  border-color: var(--dl-color-gray-black);
+  border-width: 0px;
+  margin-right: 80px;
+  text-decoration: none;
+}
+.home-link4 {
+  display: contents;
+}
+.home-twitter {
+  fill: #98e8cd;
+  left: 80px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+  text-decoration: none;
+}
+.home-image {
+  top: var(--dl-space-space-threeunits);
+  left: var(--dl-space-space-sixunits);
+  width: auto;
+  height: 104px;
+  margin: auto;
+  position: absolute;
+  object-fit: cover;
+}
+@media(max-width: 1200px) {
+  .home-container {
+    background-size: cover;
+    background-image: url("public/playground_assets/pexels-adrien-olichon-2387793-1500w.jpg");
+  }
+  .home-text {
+    top: 433px;
+    left: 305px;
+    position: absolute;
+  }
+  .home-image {
+    top: 71px;
+    left: 90px;
+    position: absolute;
+    align-self: flex-start;
+  }
+}
