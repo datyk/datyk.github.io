@@ -3,17 +3,28 @@
   display: flex;
   overflow: auto;
   min-height: 100vh;
-  align-items: center;
+  align-items: flex-start;
   border-color: var(--dl-color-gray-black);
   border-width: 1px;
   flex-direction: column;
   background-size: cover;
-  justify-content: flex-start;
+  justify-content: center;
   background-image: url("public/playground_assets/pexels-adrien-olichon-2387793-1500w.jpg");
 }
+.home-intro {
+  top: var(--dl-space-space-40);
+  left: var(--dl-space-space-5);
+  width: 420.390625px;
+  height: 101.75px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
 .home-text {
-  top: 400px;
-  left: 82px;
+  top: 0px;
+  left: 0px;
   color: rgb(152, 232, 205);
   position: absolute;
   font-size: 65px;
@@ -27,11 +38,10 @@
   color: #ffffff;
 }
 .home-text5 {
-  color: #ffffff;
-  font-size: 25px;
-}
-.home-text6 {
-  color: #ffffff;
+  left: 0px;
+  color: rgb(255, 255, 255);
+  bottom: 0px;
+  position: absolute;
   font-size: 25px;
 }
 .home-social {
@@ -127,44 +137,10 @@
   object-fit: cover;
   text-decoration: none;
 }
-@media(max-width: 1200px) {
-  .home-container {
-    background-size: cover;
-    background-image: url("public/playground_assets/pexels-adrien-olichon-2387793-1500w.jpg");
-  }
-  .home-text {
-    top: var(--dl-space-space-40);
-    left: var(--dl-space-space-5);
-    position: absolute;
-  }
-  .home-logo {
-    top: var(--dl-space-space-5);
-    left: var(--dl-space-space-5);
-    position: absolute;
-    align-self: flex-start;
-  }
-}
-@media(max-width: 767px) {
-  .home-text {
-    top: var(--dl-space-space-40);
-    left: var(--dl-space-space-5);
-  }
-  .home-social {
-    top: var(--dl-space-space-60);
-  }
-}
 @media(max-width: 479px) {
-  .home-text {
-    top: var(--dl-space-space-30);
+  .home-intro {
+    top: var(--dl-space-space-40);
     left: var(--dl-space-space-5);
-  }
-  .home-social {
-    top: 70%;
-    left: var(--dl-space-space-5);
-    margin-left: 0px;
-  }
-  .home-logo {
-    top: 5%;
-    left: 5%;
+    position: absolute;
   }
 }
