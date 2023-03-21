@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/datyk
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://tyk.no
+  * I am datyk (https://keybase.io/datyk) on keybase.
+  * I have a public key with fingerprint 694F 55A5 0EDA 226C 3BAD  16CF BE80 EBA7 45C4 591D
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120bfe8e13aa9a2e4c611cb591b0938759564d7172166fe98ff0530d5f880247b750a",
+      "fingerprint": "694f55a50eda226c3bad16cfbe80eba745c4591d",
+      "host": "keybase.io",
+      "key_id": "be80eba745c4591d",
+      "kid": "01016835caca1fea0f94626528e167295938ced3e57da756ab654992f9932e1945960a",
+      "uid": "7b38bdfc306ac42b97bf2e9f993c4619",
+      "username": "datyk"
+    },
+    "service": {
+      "hostname": "tyk.no",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1679431195,
+  "expire_in": 157680000,
+  "prev": "547fb312a44c2d61121c58ef6c9442205c4b5e31cd804544be3e19111207af2d",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMNkAnicbVJtUBVVGL6AENxiRhrAEQNqR+NHgHt29+zHbZBUcK5mio5izRSXs7tn
+cQPvXu9dLiBdskEoRYM+hoahMYwysS9BUgkJL2NpMUoiFpaSNCLTgHcawJDJps4y
++q/z58x5z/M87/M+55yNjbDZw77ZPfFJ7tkXksP6g/WlNjUpcUklJRtqBeWopIrx
+/IZLVOwzXcW6SjkoGjC0rGERAxYhCTGYU3gAFBlKQKYlVhSgBHlOFYDAAJ7XsCRq
+Gg1ZWoWaKNIMJ8gCpBGVTmm6uwh7PV7dbRJZXuI0CBGksYoYhldYGamAVzQZizSW
+kcBBhSMtVELcbvgsBjEnIx/O1A1SIwfXvL3/wT/wTQNeZKGCFAQ0jGhN4niGhwyZ
+hBcYCRLvClZZDAUVCZBHMg85SWI0SWIZDCSixs/7Lp2XE2RWlFVNYWkeKRwjS4Ks
+MViy0ArHA8kC+rDXjXZgglaRWVFMBdIpUvLrCrZStca4f00uM93WGB6vYRqKUUJq
+203T43NYHLPCY4HKsOy6T3fJulsl8RGGH3t9uuGmHIAgFVO39Mg8EscCIMF0Cpd7
+dC926RYCCrxIk2X1wX4iCTlBk1nAII5TGJU8IwMUKGKNVySOYxiaZChDzAJFFWkO
+cpyMWZIEIDhaQBpjhevDO4lzB2CJT1RENH16kRuZpV5MBfqCLy6whdltUZHh1r+y
+2WMWPvhtLaGFtqZWemjiu5b6wFcd5fs/9W3qmTCdhTnxxxqj929UplLzZtuOJC/j
+5q4VTDXn2x57s9zxbv8dN3Xu8PHuI0vG/QVfvjPyhB1UFXa9lPj8W9Ej6w5m5rRk
+V4265+I+S6rueJTa0554min11IVO+mOD+zxpxuCdNP3rtoN9i0I70m2Vd803hrxX
+p840LXpq8ujGW6fXy+0Xf5lZi1Jq2jNzQrVje2/cjotc+qczeqZqi7A651TMt1Rl
+581c+Ou+1zi5cNWh3rQ1c82HbteExsoGl/cZMR/0HR/tyb/6eELb9fDLzRknmupT
+8n6P+vnlZeX1cbvWj97dUJFRO3gpRb3gnTyTyjz9qnPVCidbrw6E/+BYLF5ZmrP1
+7xGqrmZgpGFvxCDT7qi0ZSQnTAwH65LH8t27CsIGzdaEe63P3Ow4WvLs8i0CT7/X
+sOajfd8bw6DsYtw/STNvG50LLg0350c+tCcEbNq1zgvx/uCmhuqOBMG5+hV7c/zr
+0++PR7g2SysevrFyXFTyGtm8L4zc6/bo7vRu9ZHq/rChgfjz056soqB/8rd7J2a7
+WhH4ty31c7StJxac7Gr663xj9rnATs61+OPqtGPt4bsjQeSp3p82X94Q3rvux4Qs
+scEccBastU31ZOI/omdDV3I/zA9sSwqU1WaPJE1NP1fYHx/l18oP1CmHb2VtRSuf
+jP0PTC208Q==
+=ubbT
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/datyk
+
+==================================================================
