@@ -1,0 +1,26 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Contact: mailto:daniel@tyk.no
+Expires: 2024-03-21T21:00:00.000Z
+Encryption: https://tyk.no/pgp-key.txt
+Preferred-Languages: en, no
+Canonical: Https://tyk.no/.wellknown/security.txt
+-----BEGIN PGP SIGNATURE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+wsFcBAABCgAGBQJkGh1iAAoJEL6A66dFxFkdbFkP/1Ose4Z+G6CRA/vP4zraV1ul
+UGfdDIpTQl9/67wVLWBRziKxKbCKliMDCbCIl26Fof8HTrfvcFSDiJyCCC6IRbME
+gU8pCpjYRFk7/9T3P69GCq+sZXcKAr9UNABEnSca0Fa0OUTHxsK5/Qhf2qoqVs6d
+b7xm4qfbbQhg8W47KoAyJ+6A/Z6gOSTVKOaKw7y9gNbA/NQj69oxk9fVDWndoIQ4
+kKwBkv5je/VhJ6ZlxTEWNdY+gnQnK8UlL4tYUKWHNiLPoVT6YIy0ZE2Yz4vhM2z4
+HXPjg+rD9YtjD7Uyv6o1WlcIwNOI1PS8ruaCY2yPQndyUdjagiaVYMQnPSc9Msma
+c9sRrRKXTwL1xphE08EdwbjHQHgm7WdDb0MSe+IM2YUk/QZ3jJsNZQfmNFYglU13
+XsYmYD4/C78F/qgj6eVxJ/49+no+wNX+aDadsDEIWeEm2IGlNmfix1f2nl68s+k/
+tuV+s1DJwyBUb/PcrIKjxs7Jj3z3cNFSRW9Px5avpE/ZS6N10FDtnPT2GpyPV0ZS
+gNMg/Fel3F9pOAKeFapqHEr0zmF7nVdjeIEvCkNXi9QtVDiONEo9m8c2vNfj7qX3
+toRiGGj0y2bSX2rqt7KbG851aVQ/Qix++hAYIy/GMu1Odlk/28Nf5OLSZBQ6STb1
+Vm1+qIWblapags6jzbhh
+=drNs
+-----END PGP SIGNATURE-----
