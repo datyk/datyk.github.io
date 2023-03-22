@@ -21,7 +21,6 @@
   --dl-color-primary-100: #98e8cdff;
   --dl-color-primary-300: #f06630ff;
   --dl-color-primary-500: #9fc1b6ff;
-  --dl-color-primary-700: #85DCFF;
   --dl-color-success-300: #199033;
   --dl-color-success-500: #32A94C;
   --dl-color-success-700: #4CC366;
@@ -37,6 +36,7 @@
   --dl-space-space-fiveunits: 80px;
   --dl-space-space-fourunits: 64px;
   --dl-space-space-threeunits: 48px;
+  --dl-color-primary-background: #12121aff;
   --dl-space-space-oneandhalfunits: 24px;
 }
 .button {
